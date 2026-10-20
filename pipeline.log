@@ -1,0 +1,96 @@
+2026-10-20 12:34:34,550 - INFO - Data is successfully fetch
+2026-10-20 12:34:34,551 - WARNING - Line 2 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 3 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 4 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 5 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 6 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 7 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 8 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 9 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 10 got issue in value 
+2026-10-20 12:34:34,551 - WARNING - Line 11 got issue in value 
+2026-10-20 12:36:26,045 - INFO - Data is successfully fetch
+2026-10-20 12:36:26,053 - WARNING - Line 2 got issue in value 
+2026-10-20 12:36:26,054 - WARNING - Line 3 got issue in value 
+2026-10-20 12:36:26,054 - WARNING - Line 4 got issue in value 
+2026-10-20 12:36:26,055 - WARNING - Line 5 got issue in value 
+2026-10-20 12:36:26,055 - WARNING - Line 6 got issue in value 
+2026-10-20 12:36:26,055 - WARNING - Line 7 got issue in value 
+2026-10-20 12:36:26,055 - WARNING - Line 8 got issue in value 
+2026-10-20 12:36:26,056 - WARNING - Line 9 got issue in value 
+2026-10-20 12:36:26,056 - WARNING - Line 10 got issue in value 
+2026-10-20 12:36:26,056 - WARNING - Line 11 got issue in value 
+2026-10-20 12:37:08,836 - INFO - Data is successfully fetch
+2026-10-20 12:37:08,837 - WARNING - Line 2 got issue in value 
+2026-10-20 12:37:08,837 - WARNING - Line 3 got issue in value 
+2026-10-20 12:37:08,837 - WARNING - Line 4 got issue in value 
+2026-10-20 12:37:08,838 - WARNING - Line 5 got issue in value 
+2026-10-20 12:37:08,838 - WARNING - Line 6 got issue in value 
+2026-10-20 12:37:08,838 - WARNING - Line 7 got issue in value 
+2026-10-20 12:37:08,838 - WARNING - Line 8 got issue in value 
+2026-10-20 12:37:08,839 - WARNING - Line 9 got issue in value 
+2026-10-20 12:37:08,839 - WARNING - Line 10 got issue in value 
+2026-10-20 12:37:08,839 - WARNING - Line 11 got issue in value 
+2026-10-20 12:37:09,063 - INFO - Data is successfully fetch
+2026-10-20 12:37:09,063 - WARNING - Line 2 got issue in value 
+2026-10-20 12:37:09,063 - WARNING - Line 3 got issue in value 
+2026-10-20 12:37:09,064 - WARNING - Line 4 got issue in value 
+2026-10-20 12:37:09,064 - WARNING - Line 5 got issue in value 
+2026-10-20 12:37:09,064 - WARNING - Line 6 got issue in value 
+2026-10-20 12:37:09,064 - WARNING - Line 7 got issue in value 
+2026-10-20 12:37:09,064 - WARNING - Line 8 got issue in value 
+2026-10-20 12:37:09,065 - WARNING - Line 9 got issue in value 
+2026-10-20 12:37:09,065 - WARNING - Line 10 got issue in value 
+2026-10-20 12:37:09,065 - WARNING - Line 11 got issue in value 
+2026-10-20 12:39:04,262 - INFO - Data is successfully fetch
+2026-10-20 12:39:04,263 - WARNING - Line 2 got issue in value 
+2026-10-20 12:39:04,263 - WARNING - Line 3 got issue in value 
+2026-10-20 12:39:04,263 - WARNING - Line 4 got issue in value 
+2026-10-20 12:39:04,264 - WARNING - Line 5 got issue in value 
+2026-10-20 12:39:04,264 - WARNING - Line 6 got issue in value 
+2026-10-20 12:39:04,264 - WARNING - Line 7 got issue in value 
+2026-10-20 12:39:04,264 - WARNING - Line 8 got issue in value 
+2026-10-20 12:39:04,265 - WARNING - Line 9 got issue in value 
+2026-10-20 12:39:04,265 - WARNING - Line 10 got issue in value 
+2026-10-20 12:39:04,265 - WARNING - Line 11 got issue in value 
+2026-10-20 12:39:52,981 - INFO - Data is successfully fetch
+2026-10-20 12:39:52,981 - WARNING - Line 7 got issue in value 
+2026-10-20 12:39:52,981 - WARNING - Line 8 got issue in value 
+2026-10-20 12:39:52,981 - WARNING - Line 9 got issue in value 
+2026-10-20 12:39:52,981 - WARNING - Line 10 got issue in value 
+2026-10-20 12:42:15,540 - INFO - Data is successfully fetch
+2026-10-20 12:42:15,540 - WARNING - Line 7 got issue in value Math:out of range
+2026-10-20 12:42:15,541 - WARNING - Line 8 got issue in value Science:missing
+2026-10-20 12:42:15,541 - WARNING - Line 9 got issue in value Math:it is not a number 
+2026-10-20 12:42:15,541 - WARNING - Line 10 got issue in value Science:out of range
+2026-10-20 12:45:12,741 - INFO - Data is successfully fetch
+2026-10-20 12:45:12,741 - WARNING - Line 7 got issue in value Math:out of range
+2026-10-20 12:45:12,742 - WARNING - Line 8 got issue in value Science:missing
+2026-10-20 12:45:12,742 - WARNING - Line 9 got issue in value Math:it is not a number 
+2026-10-20 12:45:12,742 - WARNING - Line 10 got issue in value Science:out of range
+2026-10-20 12:45:54,951 - INFO - Data is successfully fetch
+2026-10-20 12:45:54,951 - WARNING - Line 7 got issue in value Math:out of range
+2026-10-20 12:45:54,951 - WARNING - Line 8 got issue in value Science:missing
+2026-10-20 12:45:54,951 - WARNING - Line 9 got issue in value Math:it is not a number 
+2026-10-20 12:45:54,951 - WARNING - Line 10 got issue in value Science:out of range
+2026-10-20 12:59:16,300 - INFO - Data is successfully fetch
+2026-10-20 12:59:16,300 - WARNING - Line 7 got issue in value Math:out of range
+2026-10-20 12:59:16,301 - WARNING - Line 8 got issue in value Science:missing
+2026-10-20 12:59:16,301 - WARNING - Line 9 got issue in value Math:it is not a number 
+2026-10-20 12:59:16,301 - WARNING - Line 10 got issue in value Science:out of range
+2026-10-20 13:00:56,637 - INFO - Data is successfully fetch
+2026-10-20 13:00:56,638 - WARNING - Line 7 got issue in value Math:out of range
+2026-10-20 13:00:56,638 - WARNING - Line 8 got issue in value Science:missing
+2026-10-20 13:00:56,638 - WARNING - Line 9 got issue in value Math:it is not a number 
+2026-10-20 13:00:56,638 - WARNING - Line 10 got issue in value Science:out of range
+2026-10-20 13:09:31,085 - INFO - Data is successfully fetch
+2026-10-20 13:12:39,529 - INFO - Data is successfully fetch
+2026-10-20 13:17:53,600 - INFO - Data is successfully fetch
+2026-10-20 13:17:53,601 - WARNING - Line 6 got issue in value Math:out of range
+2026-10-20 13:17:53,601 - WARNING - Line 9 got issue in value English:it is not a number 
+2026-10-20 13:47:21,184 - INFO - Data is successfully fetch
+2026-10-20 13:47:21,184 - WARNING - Line 6 got issue in value Math:out of range
+2026-10-20 13:47:21,184 - WARNING - Line 9 got issue in value English:it is not a number 
+2026-10-20 13:49:45,826 - INFO - Data is successfully fetch
+2026-10-20 13:49:45,826 - WARNING - Line 6 got issue in value Math:out of range
+2026-10-20 13:49:45,826 - WARNING - Line 9 got issue in value English:it is not a number 
